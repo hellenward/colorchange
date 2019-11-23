@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import YellowButton from "./components/yellowbutton.jsx";
 import RedButton from "./components/redbutton.jsx";
 import BlueButton from "./components/bluebutton.jsx";
+import PurpleButton from "./components/purplebutton.jsx";
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
         <YellowButton />
         <RedButton />
         <BlueButton />
+        <PurpleButton />
       </div>
     );
   }
