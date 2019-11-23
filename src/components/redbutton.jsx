@@ -12,8 +12,8 @@ class RedButton extends Component {
 
   render() {
     return (
-      <button onClick={this.makeRed} className="yellowButton">
-        Turn Me Red!
+      <button onClick={this.makeRed} className="redButton">
+        Make Me Red!
       </button>
     );
   }

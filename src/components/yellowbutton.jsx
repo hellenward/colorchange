@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "../index.css";
 
 class YellowButton extends Component {
   constructor(props) {
@@ -13,7 +14,7 @@ class YellowButton extends Component {
   render() {
     return (
       <button onClick={this.makeYellow} className="yellowButton">
-        Turn Me Yellow!
+        Make Me Yellow!
       </button>
     );
   }
