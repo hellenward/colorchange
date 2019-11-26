@@ -1,8 +1,5 @@
 import React, { Component } from "react";
-import YellowButton from "./components/yellowbutton.jsx";
-import RedButton from "./components/redbutton.jsx";
-import BlueButton from "./components/bluebutton.jsx";
-import PurpleButton from "./components/purplebutton.jsx";
+import MasterButton from "./components/masterbutton.jsx";
 
 class App extends Component {
   render() {
@@ -15,10 +12,10 @@ class App extends Component {
           marginTop: "15%"
         }}
       >
-        <YellowButton />
-        <RedButton />
-        <BlueButton />
-        <PurpleButton />
+        <MasterButton color="blue" />
+        <MasterButton color="red" />
+        <MasterButton color="purple" />
+        <MasterButton color="yellow" />
       </div>
     );
   }

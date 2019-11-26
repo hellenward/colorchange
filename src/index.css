@@ -8,8 +8,7 @@ body {
   background-color: red;
 }
 
-.yellowButton {
-  background-color: yellow;
+.masterButton {
   border: solid 1px;
   color: Black;
   padding: 20px;
@@ -20,52 +19,24 @@ body {
   margin: 4px 2px;
   border-radius: 50%;
   height: 150px;
+  width: 150px;
   box-shadow: 5px 10px;
 }
 
-.blueButton {
-  background-color: blue;
-  border: solid 1px;
-  color: Black;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  border-radius: 50%;
-  height: 150px;
-  box-shadow: 5px 10px;
-}
-
-.redButton {
-  background-color: red;
-  border: solid 1px;
-  color: Black;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  border-radius: 50%;
-  height: 150px;
-  box-shadow: 5px 10px;
-}
-
-.purpleButton {
+.masterButton--purple {
   background-color: purple;
-  border: solid 1px;
-  color: Black;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  border-radius: 50%;
-  height: 150px;
-  box-shadow: 5px 10px;
+}
+
+.masterButton--yellow {
+  background-color: yellow;
+}
+
+.masterButton--red {
+  background-color: red;
+}
+
+.masterButton--blue {
+  background-color: blue;
 }
 
 .container {
