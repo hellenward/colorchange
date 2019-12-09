@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  ":https://hellenward.github.io/colorchange/precache-manifest.c231d78f024aa08cb006a8169dd2005f.js"
+  ":https://hellenward.github.io/colorchange/precache-manifest.c01edeb22a5230f4a4916dbac4ef0ee7.js"
 );
 
 self.addEventListener('message', (event) => {
