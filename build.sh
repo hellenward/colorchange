@@ -1,5 +1,5 @@
 #!/bin/env bash
 
 npm run build
-
-cp -r build docs
+mkdir docs 
+cp -r build/* docs
