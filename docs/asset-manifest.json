@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": ":https://hellenward.github.io/colorchange/static/css/main.493de2e0.chunk.css",
-    "main.js": ":https://hellenward.github.io/colorchange/static/js/main.e502172e.chunk.js",
-    "main.js.map": ":https://hellenward.github.io/colorchange/static/js/main.e502172e.chunk.js.map",
-    "runtime-main.js": ":https://hellenward.github.io/colorchange/static/js/runtime-main.8f90d1d2.js",
-    "runtime-main.js.map": ":https://hellenward.github.io/colorchange/static/js/runtime-main.8f90d1d2.js.map",
-    "static/js/2.a03ec342.chunk.js": ":https://hellenward.github.io/colorchange/static/js/2.a03ec342.chunk.js",
-    "static/js/2.a03ec342.chunk.js.map": ":https://hellenward.github.io/colorchange/static/js/2.a03ec342.chunk.js.map",
+    "main.js": ":https://hellenward.github.io/colorchange/static/js/main.c043e517.chunk.js",
+    "main.js.map": ":https://hellenward.github.io/colorchange/static/js/main.c043e517.chunk.js.map",
+    "runtime-main.js": ":https://hellenward.github.io/colorchange/static/js/runtime-main.0c3a14d2.js",
+    "runtime-main.js.map": ":https://hellenward.github.io/colorchange/static/js/runtime-main.0c3a14d2.js.map",
+    "static/js/2.2da595ea.chunk.js": ":https://hellenward.github.io/colorchange/static/js/2.2da595ea.chunk.js",
+    "static/js/2.2da595ea.chunk.js.map": ":https://hellenward.github.io/colorchange/static/js/2.2da595ea.chunk.js.map",
     "index.html": ":https://hellenward.github.io/colorchange/index.html",
-    "precache-manifest.c01edeb22a5230f4a4916dbac4ef0ee7.js": ":https://hellenward.github.io/colorchange/precache-manifest.c01edeb22a5230f4a4916dbac4ef0ee7.js",
+    "precache-manifest.bd6ee714d104384049da009a76cca8d6.js": ":https://hellenward.github.io/colorchange/precache-manifest.bd6ee714d104384049da009a76cca8d6.js",
     "service-worker.js": ":https://hellenward.github.io/colorchange/service-worker.js",
     "static/css/main.493de2e0.chunk.css.map": ":https://hellenward.github.io/colorchange/static/css/main.493de2e0.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f90d1d2.js",
-    "static/js/2.a03ec342.chunk.js",
+    "static/js/runtime-main.0c3a14d2.js",
+    "static/js/2.2da595ea.chunk.js",
     "static/css/main.493de2e0.chunk.css",
-    "static/js/main.e502172e.chunk.js"
+    "static/js/main.c043e517.chunk.js"
   ]
 }
