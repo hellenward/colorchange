@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 
 class MasterButton extends Component {
-  constructor(props) {
-    super(props);
-  }
 
   handleClick = color => {
     document.body.style.backgroundColor = color;
