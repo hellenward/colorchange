@@ -23,6 +23,11 @@ body {
   box-shadow: 5px 10px;
 }
 
+.masterButton:active {
+  box-shadow: 0 5px 0;
+  transform: translateY(4px);
+}
+
 .masterButton--purple {
   background-color: purple;
 }

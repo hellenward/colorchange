@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/colorchange/static/css/main.493de2e0.chunk.css",
+    "main.css": "/colorchange/static/css/main.e9bd5da5.chunk.css",
     "main.js": "/colorchange/static/js/main.d185d8af.chunk.js",
     "main.js.map": "/colorchange/static/js/main.d185d8af.chunk.js.map",
     "runtime-main.js": "/colorchange/static/js/runtime-main.165a0838.js",
@@ -8,14 +8,14 @@
     "static/js/2.a03ec342.chunk.js": "/colorchange/static/js/2.a03ec342.chunk.js",
     "static/js/2.a03ec342.chunk.js.map": "/colorchange/static/js/2.a03ec342.chunk.js.map",
     "index.html": "/colorchange/index.html",
-    "precache-manifest.fb002bacb0d3c584538e8695fb53e099.js": "/colorchange/precache-manifest.fb002bacb0d3c584538e8695fb53e099.js",
+    "precache-manifest.d711a16905939acc8fd4907dd2775304.js": "/colorchange/precache-manifest.d711a16905939acc8fd4907dd2775304.js",
     "service-worker.js": "/colorchange/service-worker.js",
-    "static/css/main.493de2e0.chunk.css.map": "/colorchange/static/css/main.493de2e0.chunk.css.map"
+    "static/css/main.e9bd5da5.chunk.css.map": "/colorchange/static/css/main.e9bd5da5.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.165a0838.js",
     "static/js/2.a03ec342.chunk.js",
-    "static/css/main.493de2e0.chunk.css",
+    "static/css/main.e9bd5da5.chunk.css",
     "static/js/main.d185d8af.chunk.js"
   ]
 }
